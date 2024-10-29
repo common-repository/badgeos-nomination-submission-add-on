@@ -1,0 +1,19 @@
+#badgeos_tools_email_submissions,
+#badgeos_tools_email_nominations
+{
+	background-color: #fff;
+	padding: 0 !important;
+	border-left: 1px solid #ccc;
+}
+.badgeos_tools_email_submissions,
+.badgeos_tools_email_nominations
+{
+	padding: 20px;
+}
+#badgeos_tools_email_submissions form table tr th,
+#badgeos_tools_email_nominations form table tr th
+{
+	vertical-align: top;
+    text-align: left;
+    width: 40%;
+}
